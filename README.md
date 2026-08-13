@@ -51,6 +51,4 @@ PDFs are sourced from free, legitimate references (TutorialsPoint tutorials, Ope
 
 Core RAG pipeline — ingestion, grounded retrieval, subject-scoped multi-course chat, authentication, and course management — is built and working end-to-end. Planned next: an assessment/grading layer that quizzes users on ingested material and explicitly flags incorrect answers, building on the topic-progress tracking already in the data model.
 
-## Acknowledgment
 
-Built as an assignment for the Agentic AI course at **Saylani Mass IT Training (Zamzam Academy)**, under the guidance of **Muhammad Saad Naseem**.
